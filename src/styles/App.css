@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#root{
+    display: flex;
+    justify-content: center;
+}
+
+.App{
+    margin-top: 30px;
+    width: 830px;
+    padding:  30px;
+    background-color: #e9e9e9;
+}
